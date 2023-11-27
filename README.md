@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnoushkaTripathi
 - 👀 I’m interested in Digital Circuit Design
-- 🌱 I’m currently learning ...electronics engineering
+- 🌱 I’m currently learning Verilog
 - 💞️ I’m presently working on Vedic Neuron Processing unit
 - 📫 How to reach me ...via linkedin or mail
 
