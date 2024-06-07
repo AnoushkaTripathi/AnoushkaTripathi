@@ -50,6 +50,6 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 
 ## 💬 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [LinkedIn](in/anoushkastripathi)
 - [Personal Website](https://yourwebsite.com)
 
