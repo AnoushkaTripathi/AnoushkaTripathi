@@ -11,6 +11,9 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 ![OpenLane RISC-V](https://img.shields.io/badge/-OpenLane_RISC_V-333?style=flat&logo=risc-v)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+
 
 ## 📈 GitHub Stats
 
