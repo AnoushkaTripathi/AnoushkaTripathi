@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 
 ## 📈 GitHub Stats
 
-![Anoushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnoushkaTripathi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoushkaTripathi&size_weight=0.5&count_weight=0.5)
 
 ## 🚀 Projects
 
