@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems.
 
+![](https://komarev.com/ghpvc/?username=AnoushkaTripathi&color=green)
+
 ## 🛠️ Technologies & Tools
 
 ![FPGA](https://img.shields.io/badge/-FPGA-333?style=flat&logo=fpga)
