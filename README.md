@@ -1,6 +1,7 @@
 # Hi there, I'm Anoushka Tripathi! 👋
 
 Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems.
+![image](https://github.com/user-attachments/assets/d92f4742-9eef-4944-9e78-ae1416e52454)
 
 ![](https://komarev.com/ghpvc/?username=AnoushkaTripathi&color=green)
 
