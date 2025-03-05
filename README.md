@@ -20,9 +20,6 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoushkaTripathi&size_weight=0.5&count_weight=0.5)
 
 ## 🚀 Projects
 
