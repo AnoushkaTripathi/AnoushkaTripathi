@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 ![VIVADO HLS](https://img.shields.io/badge/-VIVADO_HLS-333?style=flat&logo=xilinx)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333?style=flat&logo=machine-learning)
 ![Verilog](https://img.shields.io/badge/-Verilog-333?style=flat&logo=verilog)
-![OpenLane RISC-V](https://img.shields.io/badge/-OpenLane_RISC_V-333?style=flat&logo=risc-v)
+![RISC-V](https://img.shields.io/badge/-OpenLane_RISC_V-333?style=flat&logo=risc-v)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
