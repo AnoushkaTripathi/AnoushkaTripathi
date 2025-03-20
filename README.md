@@ -29,7 +29,9 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 - **[Universal-Asynchronous-Receiver-Transmitter](https://github.com/AnoushkaTripathi/Universal-Asynchronous-Receiver-Transmitter)**: UART on ARTIX 7
 - **[NASSCOM VSD SoC Design Program](https://github.com/AnoushkaTripathi/NASSCOM-VSD-SoC-design-Program)**: A deep dive into the process of designing an ASIC from RTL to GDS.
 - **[My Very First RTL to GDS Project](https://github.com/AnoushkaTripathi/My_Very_first_RTLtoGDS-Project)**: A project showcasing the complete flow from RTL to GDS.
-![image](https://github.com/user-attachments/assets/6892b92d-2631-4549-b277-f28325d73340)
+- # DIR-V SYMPOSIUM HACKATHON WINNER 2025 : Core/SoC Enhancement
+ ![WhatsApp Image 2025-03-08 at 7 57 38 AM (1)](https://github.com/user-attachments/assets/26a4e306-e1d0-4e9a-858b-ae8955332a70)
+
 
 
 
