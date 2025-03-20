@@ -1,8 +1,9 @@
 # Hi there, I'm Anoushka Tripathi! 👋
-
-Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems.
-
 ![image](https://github.com/user-attachments/assets/d92f4742-9eef-4944-9e78-ae1416e52454)
+Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems.
+# DIR-V SYMPOSIUM HACKATHON WINNER 2025 : Core/SoC Enhancement
+ ![WhatsApp Image 2025-03-08 at 7 57 38 AM (1)](https://github.com/user-attachments/assets/26a4e306-e1d0-4e9a-858b-ae8955332a70)
+
 
 ![](https://komarev.com/ghpvc/?username=AnoushkaTripathi&color=green)
 
@@ -29,8 +30,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 - **[Universal-Asynchronous-Receiver-Transmitter](https://github.com/AnoushkaTripathi/Universal-Asynchronous-Receiver-Transmitter)**: UART on ARTIX 7
 - **[NASSCOM VSD SoC Design Program](https://github.com/AnoushkaTripathi/NASSCOM-VSD-SoC-design-Program)**: A deep dive into the process of designing an ASIC from RTL to GDS.
 - **[My Very First RTL to GDS Project](https://github.com/AnoushkaTripathi/My_Very_first_RTLtoGDS-Project)**: A project showcasing the complete flow from RTL to GDS.
-- # DIR-V SYMPOSIUM HACKATHON WINNER 2025 : Core/SoC Enhancement
- ![WhatsApp Image 2025-03-08 at 7 57 38 AM (1)](https://github.com/user-attachments/assets/26a4e306-e1d0-4e9a-858b-ae8955332a70)
+ 
 
 
 
