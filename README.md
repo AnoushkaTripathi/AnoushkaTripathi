@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 - **[NIELIT Internship on HLS Programming](https://github.com/AnoushkaTripathi/NIELIT-INTERNSHIP-ON-HLS-PROGRAMMING)**: Exploration of topics such as HLS programming, combinational circuits, sequential circuits, and a capstone project.
 - **[Universal-Asynchronous-Receiver-Transmitter](https://github.com/AnoushkaTripathi/Universal-Asynchronous-Receiver-Transmitter)**: UART on ARTIX 7
 - **[NASSCOM VSD SoC Design Program](https://github.com/AnoushkaTripathi/NASSCOM-VSD-SoC-design-Program)**: A deep dive into the process of designing an ASIC from RTL to GDS.
-- **[NASSCOM RISC-V Based MYTH PROGRAM](https://github.com/AnoushkaTripathi/NASSCOM-RISC-V-based-MYTH-program)**: A project showcasing the complete flow from RTL to GDS.
+- **[NASSCOM RISC-V Based MYTH PROGRAM](https://github.com/AnoushkaTripathi/NASSCOM-RISC-V-based-MYTH-program)**: Building RISC-V CPU with TL-Verilog
  
 
 
