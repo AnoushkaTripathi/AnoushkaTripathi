@@ -2,6 +2,7 @@
 
 ![Screenshot 2025-02-27 100617](https://github.com/user-attachments/assets/54e89f8a-fc54-434e-9c1f-23f4c6e2b79b)
 Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems.
+## Presently working as FPGA Trainee at SSPL,DRDO
 # DIR-V SYMPOSIUM HACKATHON WINNER 2025 : Core/SoC Enhancement
  ![WhatsApp Image 2025-03-08 at 7 57 38 AM (1)](https://github.com/user-attachments/assets/26a4e306-e1d0-4e9a-858b-ae8955332a70)
 
