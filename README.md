@@ -3,10 +3,6 @@
 
 Welcome to my GitHub profile! I'm a passionate DV engineer with a love for designing and optimizing digital circuits and systems.
 ## Presently working as DV Engineer at CoVerify
-# DIR-V SYMPOSIUM HACKATHON WINNER 2025 : Core/SoC Enhancement
-
-
-![](https://komarev.com/ghpvc/?username=AnoushkaTripathi&color=green)
 
 
 ## 🛠️ Technologies & Tools
