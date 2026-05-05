@@ -1,5 +1,4 @@
 # Hi there, I'm Anoushka Tripathi! 👋
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/0e843677-39ce-4fef-a2fa-d00378d0b730" />
 
 Welcome to my GitHub profile! I'm a passionate DV engineer with a love for designing and optimizing digital circuits and systems.
 ## Presently working as DV Engineer at CoVerify
